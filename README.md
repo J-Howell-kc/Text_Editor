@@ -37,4 +37,4 @@ https://github.com/github.com/J-Howell-kc <br/>
 Feel free to direct any questions to howell_j@hotmail.com. Thanks.
 
 ## Screenshot
-![screenshot](/Users/brandonjhowell/bootcamp/Assignments/Text_Editor/imgs/localhost_3000_.png);
+![screenshot](imgs/localhost_3000_.png); 
